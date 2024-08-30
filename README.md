@@ -1,4 +1,4 @@
-# DSA-assignment---Semester-232
+# KNN-MNIST
 The major assignment for the Data Structures and Algorithms course in the  semester 232 at VNU - HCMUT
 
 __I. Theory__
